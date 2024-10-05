@@ -1,4 +1,4 @@
-Tic Tac Toe Game
+Rock Paper Scissors Game
 
 Developer: Sanket Vijay Munjewar
 
